@@ -1,6 +1,6 @@
-# ⚡ Soluris
+# ⚡ SunTech
 
-Soluris is a modern web application built to help users contact and connect with solar energy providers through a seamless and responsive user interface. The project consists of a Node.js/Express backend and a frontend likely using HTML/CSS/JS or a JavaScript framework.
+SunTech s is a modern web application built to help users contact and connect with solar energy providers through a seamless and responsive user interface. The project consists of a Node.js/Express backend..
 
 ## 🌐 Features
 
